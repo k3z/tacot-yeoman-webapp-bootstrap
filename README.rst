@@ -20,7 +20,7 @@ Download grunt packages and bower components.
     $ mkdir <project folder>
     $ git clone git@github.com:k3z/tacot-yeoman-webapp-bootstrap.git ./<project folder>
     $ cd <project folder>
-    $ grunt
+    $ npm install
     $ bower install
 
 Create the virtualenv container and install Tacot.
