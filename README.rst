@@ -58,7 +58,7 @@ A dist/ folder is created with the final project.
 .. _Virtualenv: http://www.virtualenv.org/en/latest/
 .. _Grunt: http://gruntjs.com/
 .. _Bower: http://bower.io/
-.. _Yeaoman: http://yeoman.io/
+.. _Yeoman: http://yeoman.io/
 .. _Tacot: http://pythonhosted.org/tacot/en/
 .. _Bootstrap: http://getbootstrap.com/
 .. _Sass: http://sass-lang.com/
