@@ -402,6 +402,7 @@ module.exports = function (grunt) {
     });
 
     grunt.registerTask('build', [
+        'shell:tacot',
         'clean:dist',
         'useminPrepare',
         'concurrent:dist',
